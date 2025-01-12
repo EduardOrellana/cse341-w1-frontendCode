@@ -1,7 +1,9 @@
-# Repository Introduction
+# How to run the application
 
-This repository contains a collection of code for students that take the CSE 341 course at Brigham Young University - Idaho.
+Run npm install and npm start from the backend folder in the terminal
 
-## How to use this repository
+Run frontend/index.html with live server or just paste the file path into a browser.
 
-Each branch contains a collection of code for a given assignment or class activity. Select a branch, and then either clone, fork, or download the zip file to access the files on your computer.
+### Video Explanation
+
+[Solution to team activity without stretch](https://youtu.be/YcgHzRX9ycQ)
